@@ -55,4 +55,4 @@ if(message.content.startsWith(prefix)){
 });
 
 
-bot.login('NjAwNDI0OTYwOTcxODk4OTEz.XSzjZA.VYwd714jt1Tgu8YadzoeaVwoAqk');
+bot.login('fuck off');
