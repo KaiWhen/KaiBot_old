@@ -42,7 +42,8 @@ module.exports.run = async(bot, message, args) => {
 
         
     
-        }else{
+        }
+        else {
             message.channel.send("Please enter a username");
         }
 }
